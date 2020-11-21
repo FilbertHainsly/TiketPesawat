@@ -1,1 +1,37 @@
-{"20201007-C001": {"nama": "Kuda", "telp": "08123456789", "hobi": "makan rumput"}, "20201007-C002": {"nama": "Jerapah", "telp": "08123456789", "hobi": "makan rumput"}}
+"20200210-C001" : {
+		"nama" : "Kevin",
+		"email" : "kevin500@gmail.com",
+		"tanggal_keberangkatan" : "10 Februari 2021",
+		"maskapai" : "BATIK AIR",
+		"kode_booking" : "BA27S",
+		"kota_asal" : "Palembang",
+		"kota_tujuan" : "Jakarta",
+		"seat" : "12B",
+		"terminal_gate" : "1C",
+		"kelas" : "Economy"
+	},
+	"20200125-C002" : {
+		"nama" : "Joko",
+		"email" : "joko123@gmail.com",
+		"tanggal_keberangkatan" : "25 Januari 2021",
+		"maskapai" : "GARUDA INDONESIA",
+		"kode_booking" : "GA027F",
+		"kota_asal" : "Bandung",
+		"kota_tujuan" : "Medan",
+		"seat" : "25A",
+		"terminal_gate" : "2D",
+		"kelas" : "Business"
+	},
+	"20200125-C003" : {
+		"nama" : "Budi",
+		"email" : "Budi100@gmail.com",
+		"tanggal_keberangkatan" : "20 Mei 2021",
+		"maskapai" : "CITILINK INDONESIA",
+		"kode_booking" : "CT18B",
+		"kota_asal" : "Surabaya",
+		"kota_tujuan" : "Bali",
+		"seat" : "15F",
+		"terminal_gate" : "3A",
+		"kelas" : "Business"
+	}
+}	
